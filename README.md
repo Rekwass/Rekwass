@@ -1,6 +1,6 @@
-<!-- <div style="width: 100%"> -->
-<!--   <img src="assets/welcome.svg" style="width: 100%"> -->
-<!-- </div> -->
+<div style="width: 100%">
+  <img src="assets/welcome.svg" style="width: 100%">
+</div>
 
 <h1 align="left">I'm a French Student and Developer</h1>
 
