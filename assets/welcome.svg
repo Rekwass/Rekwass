@@ -14,9 +14,15 @@
         }
 
         @keyframes gradient {
-          0% { background-position: 0% 50%; }
-          50% { background-position: 100% 50%; }
-          100% { background-position: 0% 50%; }
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
         }
 
         .container {
@@ -47,7 +53,6 @@
           transform-origin: 70% 70%;
         }
       </style>
-
       <div class="container">
         <h1>Hi there <div class="wave">👋</div> I'm Nicolas - aka Rekwass</h1>
       </div>
