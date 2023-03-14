@@ -1,4 +1,9 @@
 <style>img { height: 50px }</style>
+
+<div style="width: 100%">
+  <img src="assets/welcome.svg" style="width: 100%">
+</div>
+
 <h1 align="left">I'm a French Student and Developer</h1>
 
 - 💼 3rd year IT student at **EPITECH, Bordeaux, France** (2020 - 2025)
