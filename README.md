@@ -1,8 +1,8 @@
-<style>img { height: 50px }</style>
-
 <div style="width: 100%">
   <img src="assets/welcome.svg" style="width: 100%">
 </div>
+
+<style>img { height: 50px }</style>
 
 <h1 align="left">I'm a French Student and Developer</h1>
 
