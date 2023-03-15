@@ -113,3 +113,10 @@
     <img height="50px" alt="Swift" title="Swift" src="assets/icons/swift.svg" />
   </a>
 </p>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rekwass&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rekwass&theme=aura_dark" />
+<img width="50%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rekwass&theme=aura_dark" />
+<img width="50%" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rekwass&theme=aura_dark" />
+<img width="50%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rekwass&theme=aura_dark" />
+<img width="50%" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rekwass&theme=aura_dark&utcOffset=8" />
