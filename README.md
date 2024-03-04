@@ -4,8 +4,8 @@
 
 <h1 align="left">I'm a French Student and Developer</h1>
 
-- 💼 3rd year IT student at **EPITECH, Bordeaux, France** (2020 - 2025)
-- 🎓 I will study to Laval university next year (2023 - 2024)
+- 💼 4th year IT student at **EPITECH, Bordeaux, France** (2020 - 2025)
+- 🎓 I am studying in Laval university this year (2023 - 2024)
 - 🧑‍🎓 Autonomous & Self-taught
 - ⚕️ Working on my study project Medali
 - 📚 I'm currently learning Rust and Lua
