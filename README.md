@@ -4,11 +4,11 @@
 
 <h1 align="left">I'm a French Student and Developer</h1>
 
-- 💼 4th year IT student at **EPITECH, Bordeaux, France** (2020 - 2025)
-- 🎓 I am studying in Laval university this year (2023 - 2024)
+- 💼 5th year IT student at **EPITECH, Bordeaux, France** (2020 - 2025)
+- 🎓 I studied at Laval university last year (2023 - 2024)
 - 🧑‍🎓 Autonomous & Self-taught
 - ⚕️ Working on my study project Medali
-- 📚 I'm currently learning Rust and Lua
+- 📚 I'm currently learning Haskell
 
 ### Languages & Tools
 
@@ -100,18 +100,6 @@
   </a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img height="50px" alt="Vim" title="Vim" src="assets/icons/vim.svg" />
-  </a>
-
-### 📚 What I am learning at the moment
-
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Lua" title="Lua" src="assets/icons/lua.svg" />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Rust" title="Rust" src="assets/icons/rust.svg" />
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img height="50px" alt="Swift" title="Swift" src="assets/icons/swift.svg" />
   </a>
 </p>
 
